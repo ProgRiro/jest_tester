@@ -1,4 +1,4 @@
-const toFizzBuzz = require("./modules/fizzbuzz");
+const toFizzBuzz = require("./middleware/fizzbuzz");
 
 const app = () => {
   for (let i = 1; i <= 100; i++) {
