@@ -1,8 +1,12 @@
 {
   "name": "jest_tester",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
   "devDependencies": {
     "jest": "^26.5.3"
   }
