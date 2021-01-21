@@ -15,8 +15,7 @@
     "esModuleInterop": true,
     "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"],
-      "lodash/*": ["/node_modules/lodash/*"]
+      "@/*": ["./src/*"]
     }
   },
   "exclude": ["node_modules"]
